@@ -1,0 +1,9 @@
+.video_wrapper {
+  display: flex;
+}
+
+@media screen and (max-width: 1024px) {
+  .video_wrapper {
+    display: block;
+  }
+}
